@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "5eed",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-09-17T15:49:11.385Z",
+      "notes": "hello",
+      "position": {
+        "lat": "38.73066634052741",
+        "lng": "-9.15780712005333"
+      }
+    },
+    {
+      "id": "afe7",
+      "cityName": "Carrick-on-Suir",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2024-09-17T16:08:50.735Z",
+      "notes": "good\n\n",
+      "position": {
+        "lat": "52.48495857329211",
+        "lng": "-7.743804125434947"
+      }
+    }
+  ]
+}
